@@ -1,3 +1,9 @@
+## About this repo
+These are my personal solutions to the course, tracked on the `my-solutions` branch.
+Original course README below.
+
+---
+
 # Learn Rust, one exercise at a time
 
 You've heard about Rust, but you never had the chance to try it out?\
